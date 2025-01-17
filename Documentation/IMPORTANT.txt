@@ -1,4 +1,4 @@
-Dataset GitHub Repo
+Dataset GitHub Repository
 
 Due to the large size of the dataset, it could not be uploaded directly onto the VLE. However, the dataset is accessible via the following GitHub link: https://github.com/AFLucas-UOM/Constellation-Finder 
 The dataset is organized within the `8CD` folder. This folder contains all the images and resources used in this project (including augmented images).
