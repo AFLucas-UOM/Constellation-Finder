@@ -2,6 +2,9 @@
 
 **Constellation-Finder** is an AI-powered image processing tool designed to identify and analyze constellations within astronomical images. By leveraging advanced image processing techniques and augmentation methods, the tool provides a robust solution for recognizing and matching constellation patterns, making it ideal for educational and research purposes.
 
+## **8CD - 8 Constellation Dataset**
+The dataset is organized within the `8CD` folder. This folder contains all the images and resources used in this project (including augmented images).
+
 ## Key Features
 
 - **Constellation Detection**: Identifies constellations in images using **template based matching** and feature detection algorithms.  
@@ -32,7 +35,7 @@
 
 **Constellation-Finder** was developed to make constellation identification accessible and efficient for astronomy enthusiasts, educators, and researchers. Its goal is to simplify the process of detecting and analyzing celestial patterns while providing tools for dataset enhancement and visualization. By combining technical precision with ease of use, the tool bridges the gap between amateur and professional astronomy applications.
 
-The project emphasizes accuracy, flexibility, and user-friendliness, enabling anyone to explore and study constellations with confidence.
+The project emphasizes accuracy, flexibility, and user-friendliness, enabling anyone to explore and study constellations.
 
 ## Clone the repository:
   ```bash
